@@ -17,6 +17,3 @@ t4 = BTnode(42, t3, none)
 t5 = BTnode(8, none, none)
 t6 = BTnode(8, t4, t5)
 t = BTnode(2, t2, t6)
-
-
-print(t);
