@@ -27,3 +27,6 @@ def search(t, d):
     if search(t.left , d): return True
     return search(t.right, d);
 
+
+
+# This is a tree structure
