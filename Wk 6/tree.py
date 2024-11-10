@@ -30,3 +30,17 @@ def search(t, d):
 
 
 # This is a tree structure
+def newMethod():
+    input("Please add a number from 0 to 9")
+    
+    val = input
+    
+    if (val > 2):
+        print("Bigger than 2")
+    elif (val < 2):
+        print("Less than 2")
+    else:
+        print("This a 2")
+    print("Hello")
+
+newMethod()
